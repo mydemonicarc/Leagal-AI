@@ -1,4 +1,7 @@
- HEAD
+# Leagal---AI
+Breaking Barriers to Justice with Intelligent Tech.
+
+HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,6 +21,3 @@ Note: This will impact Vite dev & build performances.
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
-# Leagal---AI
-Breaking Barriers to Justice with Intelligent Tech.
->>>>>>> 039feff6d47a3f50938900f9129dc09d26984a56
